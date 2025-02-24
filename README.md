@@ -13,6 +13,7 @@ object detection, and deep learning experiments to small exploratory notebooks.
 
 ## List of ML Projects
 1. [**ML Rock vs Mine Project**](Sonar_Rock_vs_Mine_Prediction_ML/) - A classification model to distinguish between rocks and mines based on sonar data.
+2. [**ML Diabetes Prediction**](Diabetes_Prediction_ML) - A classification model to predict diabetes based on health metrics.
 
 ## License
 This repository is licensed under the MIT License.
