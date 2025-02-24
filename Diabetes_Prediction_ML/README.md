@@ -94,6 +94,10 @@ prediction = svm_classifier.predict(input_data_scaled)
 print('Prediksi:', 'Diabetes' if prediction[0] == 1 else 'Tidak Diabetes')
 ```
 
+### 🔍 Penjelasan `reshape(1, -1)`
+Fungsi `reshape(1, -1)` digunakan untuk **mengubah bentuk array 1D menjadi 2D**, karena model memerlukan input dalam format **(baris, kolom)**.
+Contoh sebelum dan sesudah `reshape(1, -1)`:
+
 ### 9️⃣ Prediksi dengan Beberapa Data Sekaligus 🔢  
 Gunakan model untuk memprediksi beberapa data sekaligus:
 ```python
