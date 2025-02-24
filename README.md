@@ -11,20 +11,6 @@ object detection, and deep learning experiments to small exploratory notebooks.
 ## List of ML Projects
 1. [**ML Rock vs Mine Project**](Sonar_Rock_vs_Mine_Prediction_ML/) - A classification model to distinguish between rocks and mines based on sonar data.
 2. [**ML Diabetes Prediction**](Diabetes_Prediction_ML) - A classification model to predict diabetes based on health metrics.
-
-This repository contains a collection of various Machine Learning (ML) projects. 
-Each project explores different ML techniques, ranging from classification, 
-object detection, and deep learning experiments to small exploratory notebooks.
-
-## Repository Overview
-- **Exploratory Notebooks**: Jupyter notebooks with experiments and insights.
-- **ML Models**: Implementations of various ML models and architectures.
-- **Data Processing**: Scripts for cleaning and preprocessing datasets.
-- **Utilities**: Helper functions and tools for ML workflows.
-
-## List of ML Projects
-1. [**ML Rock vs Mine Project**](Sonar_Rock_vs_Mine_Prediction_ML/) - A classification model to distinguish between rocks and mines based on sonar data.
-2. [**ML Diabetes Prediction**](Diabetes_Prediction_ML) - A classification model to predict diabetes based on health metrics.
 3. [**House Price Prediction ML**](House_Price_Prediction_ML) - A regression model to predict house prices using the California housing dataset from sklearn.
 
 ---
