@@ -12,6 +12,7 @@ object detection, and deep learning experiments to small exploratory notebooks.
 1. [**ML Rock vs Mine Project**](Sonar_Rock_vs_Mine_Prediction_ML/) - A classification model to distinguish between rocks and mines based on sonar data.
 2. [**ML Diabetes Prediction**](Diabetes_Prediction_ML) - A classification model to predict diabetes based on health metrics.
 3. [**House Price Prediction ML**](House_Price_Prediction_ML) - A regression model to predict house prices using the California housing dataset from sklearn.
+4. [**Fake News Prediction ML**](Fake_news_Prediction_ML) - A classification model using Logistic Regression to detect fake news based on text analysis with NLP techniques.
 
 ---
 
