@@ -13,6 +13,8 @@ object detection, and deep learning experiments to small exploratory notebooks.
 2. [**ML Diabetes Prediction**](Diabetes_Prediction_ML) - A classification model to predict diabetes based on health metrics.
 3. [**House Price Prediction ML**](House_Price_Prediction_ML) - A regression model to predict house prices using the California housing dataset from sklearn.
 4. [**Fake News Prediction ML**](Fake_News_Prediction_ML) - A classification model using Logistic Regression to detect fake news based on text analysis with NLP techniques.
+5. [**Loan Status Prediction ML**](Loan_Status_Prediction_ML) - a classification model to predict that the user can get the loan or not from their status and information using SVM
+6. [**Bank Marketing Prediction ML**](Bank_Marketing_Prediction_ML) - A classification model to predict whether a customer will make a deposit after a bank marketing campaign, using **Random Forest** and **XGBoost**, with **EDA, feature engineering, and in-depth model evaluation** approaches.
 
 ---
 
